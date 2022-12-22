@@ -20,7 +20,7 @@ distance = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ```  
 ### OUTPUT:
-![OUTPUT](./picture/distance.png.png)
+![OUTPUT](./images/disvariable.png)
 
 ### RESULT:
-Thus the distance of the matrix is successfully solved using python program
+Thus the distance of the two variables matrix is successfully solved using python program
