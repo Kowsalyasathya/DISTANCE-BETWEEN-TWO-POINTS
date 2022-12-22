@@ -8,7 +8,10 @@ Use the function and we will start the program
 ### Step 2:
 We will take list of the values 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](./images/formula.jpg)
+Substitute the values in the distance formula 
+
+ ![formula](./images/formula.jpg)
+ 
 ### Step 4: 
 End the program
 ### PROGRAM:
