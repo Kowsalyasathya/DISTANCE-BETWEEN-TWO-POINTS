@@ -26,7 +26,7 @@ print("{:.2f}".format(distance))
 
 ```  
 ### OUTPUT:
-![OUTPUT](./images/disvariable.png)
+![OUTPUT](./images/disvariable1.png)
 
 ### RESULT:
 Thus the distance of the two variables matrix is successfully solved using python program
